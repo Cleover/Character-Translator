@@ -1,4 +1,7 @@
 import java.util.ArrayList;
+/**
+ * @author Cleo, Github: Cleover, Discord: Cleo#1003
+ **/
 
 public class CharTranslateObject {
     public ArrayList<String> charList;
