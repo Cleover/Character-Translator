@@ -71,3 +71,5 @@ _ {
 Space Translation Here
 }
 ```
+
+Any characters which are not defined in the lang file will be skipped in the final output.
