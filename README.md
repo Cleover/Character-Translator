@@ -51,6 +51,9 @@ b {
 2
 2
 }
+_ {
+ 
+}
 ```
 with the translation input of "a b a"
 would become
@@ -59,4 +62,12 @@ would become
 1 2 1
 1 2 1
 ```
+
 keeping spacing consistent.
+
+Spaces are automatically converted to "_" characters when translated, to include a space translation add: 
+```
+_ {
+Space Translation Here
+}
+```
